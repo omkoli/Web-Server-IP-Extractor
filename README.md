@@ -1,6 +1,8 @@
 # Web-Server-IP-Extractor
 A python script to automate shodan.io queries for finding internal IPs of web servers.
 
+![alt text](https://github.com/omkoli/Web-Server-IP-Extractor/blob/main/ipx.png)
+
 ## Introduction:
 Many companies often forget to take down their internal IPs from directly accessing to their websites. These IP addresses often remain without Cloudflare protection, making a ground for DDoS Attacks. This tool automates shodan.io to find vulnerable internal IPs.
 
