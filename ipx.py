@@ -16,7 +16,7 @@ __        _______ ____    ____  _____ ______     _______ ____    ___ ____
 \033[0m
 
 \033[1;32m 
-Contributors : Suryakant Koli (omkoli3600xt@gmail.com)
+Contributors : Om Suryakant Koli (omkoli3600xt@gmail.com)
 	     : Atharva R. Hedage (atharavhedage@gmail.com)
       GitHub : github.com/omkoli
              : github.com/AtharavRH
