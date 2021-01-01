@@ -16,7 +16,7 @@ __        _______ ____    ____  _____ ______     _______ ____    ___ ____
 \033[0m
 
 \033[1;32m 
-Contributors : Om Suryakant Koli (omkoli3600xt@gmail.com)
+Contributors : Suryakant Koli (omkoli3600xt@gmail.com)
 	     : Atharva R. Hedage (atharavhedage@gmail.com)
       GitHub : github.com/omkoli
              : github.com/AtharavRH
@@ -66,8 +66,8 @@ if choice == "n":
 api = shodan.Shodan(SHODAN_API_KEY)
 
 if len(sys.argv) < 2:
-    print("Usage :python3 om.py <query search>")
-    print("Example: python3 om.py apache")
+    print("Usage :python3 ipx.py <query search>")
+    print("Example: python3 ipx.py apache")
     sys.exit(0)
 
 try:
