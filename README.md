@@ -1,5 +1,5 @@
 # Web-Server-IP-Extractor
-A python script to automate shodan.io queries for finding internal IPs of web servers.
+A python script to automate shodan.io queries for finding origin IPs of web servers.
 
 ![alt text](https://github.com/omkoli/Web-Server-IP-Extractor/blob/main/ipx.png)
 
